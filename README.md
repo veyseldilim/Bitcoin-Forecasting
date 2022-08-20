@@ -8,9 +8,7 @@
 * [Data Storing](#Data_Storing)
 * [Applying Deep Learning Model CNN](#CNN)
 * [Results](#Results) 
-   * [Naive Bayes](#Naive_Bayes)
-   * [Random Forest](#Random_Forest)
-   * [Decision Tree](#Decision_Tree)
+  
 
 
 
