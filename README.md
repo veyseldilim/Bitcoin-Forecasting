@@ -130,7 +130,25 @@ To investigate which descriptive features affect bitcoin price, each descriptive
 
 From this table it can be concluded that bitcoin close price is highly dependent on bitcoin data, gold, and USD index as they raise MSE when they are removed.
 
-![image](https://user-images.githubusercontent.com/50465232/185766051-97cb2df4-6185-4b90-ae10-87a2e41fcf21.png)
+
+
+![image](https://user-images.githubusercontent.com/50465232/185766069-94e4b34f-7eb7-4ffe-b8e6-053f95253a05.png)
+
+![image](https://user-images.githubusercontent.com/50465232/185766075-223f2842-f339-4e08-afc5-760ef0c24363.png)
+
+![image](https://user-images.githubusercontent.com/50465232/185766086-1d8fabb0-15da-415b-af82-b1d5891253f6.png)
+
+![image](https://user-images.githubusercontent.com/50465232/185766090-e195b7b1-e890-4b70-8f47-ad5b0bfc87b4.png)
+
+![image](https://user-images.githubusercontent.com/50465232/185766096-ba42e1ee-bba2-40bf-8d31-0ce5d54237b7.png)
+
+![image](https://user-images.githubusercontent.com/50465232/185766104-834b6e5f-0e3f-4fdb-9f55-ef8d361a1a5a.png)
+
+![image](https://user-images.githubusercontent.com/50465232/185766106-8e3a317a-2fa1-45d2-9fcd-d369a16de6b3.png)
+
+![image](https://user-images.githubusercontent.com/50465232/185766110-39b40917-71f9-4ed7-af06-999f7f84da47.png)
+
+
 
 
 
