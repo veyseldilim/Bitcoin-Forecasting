@@ -1,4 +1,4 @@
-# bitcoin forecasting.
+# Bitcoin-Forecasting
 A time series project to predict bitcoin prices based on historical data and tweet sentiments.
 
 # Table of Contents
@@ -20,7 +20,7 @@ A time series project to predict bitcoin prices based on historical data and twe
 
 
 
-# Bitcoin-Forecasting
+
 
 Tweets have been collected by using Twint library. To do sentiment analysis, VADER has been used.
 Financial data has been taken from yahoo finance API.
